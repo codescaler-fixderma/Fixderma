@@ -1,0 +1,63 @@
+[  
+  {
+    "heading": "SKINCARE ESSENTIALS  ",
+    "products": []
+  },
+  {
+    "heading": " SHODOW SUNS-CREAMS",
+    "products": [
+      { "id": 1, "name": "Shadow_50_gel", "brand": "Fixderma", "price": 459, "discount": 10, "image": "https://www.fixderma.com/cdn/shop/files/Shadow_50_gel_75g.webp?v=1739536607" },
+      { "id": 2, "name": "Spf_50_cream", "brand": "Fixderma", "price": 329, "discount": 25, "image": "https://www.fixderma.com/cdn/shop/files/Spf_50_cream_front.webp?v=1732278864" },
+      { "id": 3, "name": "Skarfix-tx-cream", "brand": "Fixderma", "price": 430, "discount": 45, "image":"https://www.fixderma.com/cdn/shop/files/shadow-brightening-sunscreen-cream-spf-50-1.webp?v=1742535993" },
+      { "id": 4, "name": "Shadow-pore-minimizing-gel-spf-50", "brand": "Fixderma", "price": 455, "discount": 45, "image":"https://www.fixderma.com/cdn/shop/files/shadow-pore-minimizing-gel-spf-50-1.webp?v=1742535666" }
+    ]
+  },
+  {
+    "heading": "TRENDING PRODUCTS",
+    "products": [
+      { "id": 5, "name": "Nigrifix-cream-50g", "brand": "Fixderma", "price": 409, "discount": 35, "image": "https://www.fixderma.com/cdn/shop/files/Nigrifix_New_PDP_50gm.webp?v=1731498835" },
+      { "id": 6, "name": "skarfix-tx-cream-15g", "brand": "Fixderma", "price": 350, "discount": 15, "image": "https://www.fixderma.com/cdn/shop/files/skarfix-tx-cream-15g.webp?v=1744351883" },
+      { "id": 7, "name": "Foobetik-foot-cream", "brand": "Fixderma", "price": 500, "discount": 18, "image": "https://www.fixderma.com/cdn/shop/files/foobetik-foot-cream-100g.webp?v=1733152022" },
+      { "id": 8, "name": "Nigrifix-underarm-lightening-roll-on-ocean", "brand": "Fixderma", "price": 340, "discount": 40, "image": "https://www.fixderma.com/cdn/shop/files/nigrifix-underarm-lightening-roll-on-ocean.webp?v=1743757214" }
+    ]
+  },
+    {
+    "heading": "PIGMENTATION",
+    "products": [
+      { "id": 5, "name": "Pigment-correcting-face-serum-1", "brand": "Fixderma", "price": 460, "discount": 35, "image": "https://www.fixderma.com/cdn/shop/files/pigment-correcting-face-serum-1.webp?v=1735540823" },
+      { "id": 6, "name": "Skarfix-TX De-Pigmentation & Brightening Face Serum | Treat pigmentation & dark spots with 3% Tranexamic acid", "brand": "Fixderma", "price": 550, "discount": 15, "image": "https://www.fixderma.com/cdn/shop/files/Skarfix_TX_Serum_front.webp?v=1739441381" },
+      { "id": 7, "name": "Anti Pigmentation & Brightening Skarfix-TX", "brand": "Fixderma", "price": 500, "discount": 18, "image": "https://www.fixderma.com/cdn/shop/files/anti-pigmentation-brightening-skarfix-tx-csms-combo-5.webp?v=1741170228" },
+      { "id": 8, "name": "Complete skincare kit for Hyperpigmentation", "brand": "Fixderma", "price": 425, "discount": 40, "image": "https://www.fixderma.com/cdn/shop/products/Complete-skincare-kit-for-Hyperpigmentation.webp?v=1671013117" }
+    ]
+  }
+  ,
+    {
+    "heading": "ACNE",
+    "products": [
+      { "id": 5, "name": "Salyzap Body Wash | Soap-Free Wash to Combat Stubborn Body Acne", "brand": "Fixderma", "price": 460, "discount": 35, "image": "https://www.fixderma.com/cdn/shop/files/salyzap-salicylic-acid-body-wash-for-acne-100ml.webp?v=1744351481" },
+      { "id": 6, "name": "Salyzap Spray for Body Acne | Effective spray for all-round treatment of body acne", "brand": "Fixderma", "price": 550, "discount": 15, "image": "https://www.fixderma.com/cdn/shop/files/Anti_acne_Spray_11.webp?v=1729920858" },
+      { "id": 7, "name": "Salyzap-AZ Body Spray | An Innovative 360° Spray for Back & Body Acne", "brand": "Fixderma", "price": 500, "discount": 18, "image": "https://www.fixderma.com/cdn/shop/files/SalyzapazSingleProduct.webp?v=1742189688" },
+      { "id": 8, "name": "", "brand": "Fixderma", "price": 425, "discount": 40, "image": "https://www.fixderma.com/cdn/shop/files/salyzap_face_wash_1.webp?v=1752725504" }
+    ]
+  }
+    ,
+    {
+    "heading": "SERUM",
+    "products": [
+      { "id": 5, "name": "Pore Minimizer Face Serum | 20% Niacinamide for Minimizing Enlarged Pores Over Time", "brand": "Fixderma", "price": 460, "discount": 35, "image": "http://www.fixderma.com/cdn/shop/files/pore-minimizer-face-serum-1_c028b719-a0d0-4dbb-a5bd-969383ef5068.webp?v=1738647739" },
+      { "id": 6, "name": "Skarfix-TX De-Pigmentation & Brightening Face Serum | Treat pigmentation & dark spots with 3% Tranexamic acid", "brand": "Fixderma", "price": 550, "discount": 15, "image": "https://www.fixderma.com/cdn/shop/files/Skarfix_TX_Serum_front.webp?v=1739441381" },
+      { "id": 7, "name": "Pigment Correcting Face Serum | Tranexamic Acid to Fight Away Pigmentation", "brand": "Fixderma", "price": 500, "discount": 18, "image": "https://www.fixderma.com/cdn/shop/files/pigment-correcting-face-serum-1.webp?v=1735540823" },
+      { "id": 8, "name": "Acne Defence Face Serum | Powered with 2% Salicylic Acid for Acne Free Skin", "brand": "Fixderma", "price": 425, "discount": 40, "image": "https://www.fixderma.com/cdn/shop/files/acne-defence-face-serum-1.webp?v=1738648266" }
+    ]
+  }
+    ,
+    {
+    "heading": "MOISTUREIZER AND BODY LOTION",
+    "products": [
+      { "id": 5, "name": "Durave Acne Control & Oil Free Face Moisturizer | Non-Greasy Hydration for Acne-Prone Skin", "brand": "Fixderma", "price": 460, "discount": 35, "image": "https://www.fixderma.com/cdn/shop/files/durave-acne-control-oil-free-face-moisturizer-1.webp?v=1724229088" },  
+      { "id": 6, "name": "Durave Radiance, Oil Free & Brightening Face Moisturizer | Lightweight Moisturizer For A Bright & Radiant Skin", "brand": "Fixderma", "price": 550, "discount": 15, "image": "https://www.fixderma.com/cdn/shop/files/durave-radiance-oil-free-face-moisturizer-1.webp?v=1725864485" },
+      { "id": 7, "name": "Durave Moisture Protect Deep Hydration Face Moisturizer | 24-Hrs of Intense Hydration For Soft & Healthy Skin", "brand": "Fixderma", "price": 500, "discount": 18, "image": "https://www.fixderma.com/cdn/shop/files/durave-moisture-protect-face-moisturizer-1_4d4d2569-8a5b-4b8b-85e5-0de5422a2b0f.webp?v=1724234882" },
+      { "id": 8, "name": "Durave Barrier Repair Face Moisturizer | Repairs & Strengthens Skin's Barrier From Within", "brand": "Fixderma", "price": 425, "discount": 40, "image": "https://www.fixderma.com/cdn/shop/files/durave-barrier-repair-face-moisturizer-1.webp?v=1724228717" }
+    ]
+  }
+]
